@@ -29,7 +29,7 @@ public class Hotel {
 	 * Default constructor;
 	 */
 	public Hotel() {
-		super();
+		super()
 		// TODO Auto-generated constructor stub
 	}
 	/**

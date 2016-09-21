@@ -55,7 +55,4 @@ public class HotelModelTest extends TestCase {
 		assertEquals(cities.length, 2);
 	}
 	
-	public void testFail() {
-		fail();
-	}
 }

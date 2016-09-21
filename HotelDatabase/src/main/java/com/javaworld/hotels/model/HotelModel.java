@@ -59,7 +59,7 @@ public class HotelModel {
 			}
 		}
 		
-		return hotelsFound;
+		return hotelsFound
 	}	
 	
 	/**
